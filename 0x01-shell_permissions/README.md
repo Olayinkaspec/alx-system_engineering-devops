@@ -1,1 +1,1 @@
-a script that changes the owner of a file hello to betty only if it is owned by the user guillaume
+a script that will play the StarWarsIV episode in the terminal
