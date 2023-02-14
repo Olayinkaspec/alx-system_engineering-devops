@@ -1,1 +1,2 @@
-a script that counts the number of directories and subdirectories in the current directory
+#!/bin/bash
+find . -type d -not -name '.' | wc -l
